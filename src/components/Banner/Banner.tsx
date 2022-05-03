@@ -10,7 +10,7 @@ const Banner = ({ movie, index }: BannerTypes) => {
       <h2>{index + 1}</h2>
       <img
         src={movie['im:image'][2].label}
-        alt={`${movie['im:name'].label} image`}
+        alt={`${movie['im:name'].label}`}
         className={styles.image}
       />
       <div className={styles.content}>

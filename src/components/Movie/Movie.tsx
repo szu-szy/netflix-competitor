@@ -21,7 +21,7 @@ const Movie = () => {
       <Link to='/movies'>Back</Link>
       <button onClick={addToFavourites}>Add to favourites</button>
       <h2>{movie['im:name'].label}</h2>
-      <img src={movie['im:image'][2].label} alt="image alt" />
+      <img src={movie['im:image'][2].label} alt="alt" />
       <p>{movie['im:contentType'].attributes.label}</p>
       <span>{movie.summary.label}</span>
     </div>

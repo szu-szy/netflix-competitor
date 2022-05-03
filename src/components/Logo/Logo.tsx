@@ -8,7 +8,7 @@ const Logo = () => (
     <img
       className='logo'
       src={logo}
-      alt='logo image'
+      alt='logo'
     />
   </Link>
 );
