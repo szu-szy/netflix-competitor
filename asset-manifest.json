@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/netflix-competitor/static/css/main.d2f61df5.css",
+    "main.js": "/netflix-competitor/static/js/main.0d245c50.js",
+    "static/media/logo.png": "/netflix-competitor/static/media/logo.920df2011cad5a192a5f.png",
+    "index.html": "/netflix-competitor/index.html",
+    "main.d2f61df5.css.map": "/netflix-competitor/static/css/main.d2f61df5.css.map",
+    "main.0d245c50.js.map": "/netflix-competitor/static/js/main.0d245c50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2f61df5.css",
+    "static/js/main.0d245c50.js"
+  ]
+}
